@@ -7,7 +7,7 @@
 
 <div style="display: flex; align-items: center;">
   <img style="margin-right: 10px;" width="400" height="350" src="https://github.com/kurtasli/Buck_Converter/blob/main/Buck_Converter/Images/buck1.png?raw=true">
-  <img width="370" height="350" src="https://github.com/kurtasli/Buck_Converter/blob/main/Buck_Converter/Images/buck2.png?raw=true">
+  <img width="350" height="350" src="https://github.com/kurtasli/Buck_Converter/blob/main/Buck_Converter/Images/buck2.png?raw=true">
 </div>
 
 
