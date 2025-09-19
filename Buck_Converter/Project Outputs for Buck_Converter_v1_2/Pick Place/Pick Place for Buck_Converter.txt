@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\aslik\Desktop\Hardware Design\Project Files\Finished\Buck_Converter\Buck_Converter\Project Outputs for Free Documents\Pick Place\Pick Place for Buck_Converter.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01.08.25
+Time:       15:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                    Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                    
+R8         RC1206JR-0710KL            TopLayer RES_1206               1444.882      1523.622      180      "RES 10K OHM 5% 1/4W 1206"                                                                     
+R7         RC1206JR-0710KL            TopLayer RES_1206               425.197       157.480       270      "RES 10K OHM 5% 1/4W 1206"                                                                     
+D3         150120GS75000              TopLayer LED_GREEN_1206         1259.842      1523.622      180      "WL-SMCW SMT Mono-Color Chip LED Waterclear"                                                   
+D2         150120BS75000              TopLayer LED_BLUE_1206          346.457       157.480       90       "Led, Blue, 470 Nm, 3.2 V, 30 Ma, 145 Mcd Rohs Compliant: Yes |Wurth Elektronik 150120BS75000" 
+J4         "2x1 Male Header 2.54mm"   TopLayer 2x1_Male_Header_2.54mm 928.346       98.425        180      ""                                                                                             
+J3         "2x1 Male Header 2.54mm"   TopLayer 2x1_Male_Header_2.54mm 728.346       98.425        180      ""                                                                                             
+U1         "IC REG BUCK ADJ 3A 8SOIC" TopLayer SOIC8_PAD              964.567       610.236       0        "3.5V to 28V Input, 3A, 570kHz Step-Down Converter with Eco-mode 8-SOIC -40 to 150"            
+R6         "RES 47K OHM 5% 1/4W 1206" TopLayer RES_1206               749.016       399.606       90       "SMD Chip Resistor, 47 kOhm, пїЅ 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"  
+R5         RC1206JR-07100KL           TopLayer RES_1206               749.016       576.772       90       "SMD Chip Resistor, 100 kOhm, пїЅ 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose" 
+R4         "RES 33K OHM 5% 1/4W 1206" TopLayer RES_1206               1279.527      570.866       270      "SMD Chip Resistor, 33 kOhm, пїЅ 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"  
+R3         RC1206JR-073K3L            TopLayer RES_1206               1049.213      442.913       0        "RES 3.3K OHM 5% 1/4W 1206"                                                                    
+R2         RC1206JR-0710KL            TopLayer RES_1206               1222.441      349.409       0        "RES 10K OHM 5% 1/4W 1206"                                                                     
+R1         PMR18EZPJ000               TopLayer RES_1206               1362.205      393.701       90       "Res Thick Film 1206 0 Ohm 5% Molded SMD Paper T/R"                                            
+L1         SRI1004                    TopLayer IND_1010               1122.047      1220.472      90       "10uH 10X10 4.8A - SMD Gьз Bobini - SRI1004"                                                   
+J2         282836-2                   TopLayer TERMINAL               688.976       1775.591      0        "Connector, Terminal Block; Wire Receptacle; 2 Pos.; 16-30 AWG; 0.197 in. CL; Sid"             
+J1         282836-2                   TopLayer TERMINAL               196.850       531.496       90       "Connector, Terminal Block; Wire Receptacle; 2 Pos.; 16-30 AWG; 0.197 in. CL; Sid"             
+D1         B340AE-13                  TopLayer SMA                    964.567       885.827       0        "Rectifier Diode Schottky 40V 3A 2-Pin SMA T/R"                                                
+C12        C3216C0G2J103J160AA        TopLayer CAP_1206               809.055       1476.378      0        "CAP CER 10nF 1206"                                                                            
+C11        C1206C104J5RAC7800         TopLayer CAP_1206               809.055       1555.118      0        "CAP CER 0.1UF 50V X7R 1206"                                                                   
+C10        C3216C0G2J103J160AA        TopLayer CAP_1206               649.606       576.772       270      "CAP CER 10nF 1206"                                                                            
+C9         C1206C104J5RAC7800         TopLayer CAP_1206               566.929       576.772       270      "CAP CER 0.1UF 50V X7R 1206"                                                                   
+C8         CL21A475KAQNNNE            TopLayer CAP_0805               490.157       600.394       270      "CAP CER 4.7uF %10 0805"                                                                       
+C7         CL21A475KAQNNNE            TopLayer CAP_0805               413.386       600.394       270      "CAP CER 4.7uF %10 0805"                                                                       
+C6         C1206C470J5GAC7800         TopLayer CAP_1206               1200.787      570.866       270      "CAP CER 47PF 50V C0G/NP0 1206"                                                                
+C5         C3216C0G2J102J085AA        TopLayer CAP_1206               1240.157      437.008       180      "CAP CER 1nF 1206"                                                                             
+C4         C1206C104J5RAC7800         TopLayer CAP_1206               846.457       413.386       90       "CAP CER 0.1UF 50V X7R 1206"                                                                   
+C3         GMC31X5R476M25NT           TopLayer CAP_1206               807.087       1318.898      0        "CAP CER 47UF 25V X5R 1206"                                                                    
+C2         GMC31X5R476M25NT           TopLayer CAP_1206               807.087       1397.638      0        "CAP CER 47UF 25V X5R 1206"                                                                    
+C1         C1206C104J5RAC7800         TopLayer CAP_1206               1043.307      779.528       0        "CAP CER 0.1UF 50V X7R 1206"                                                                   
