@@ -14,7 +14,7 @@
 ## Block Diagram
 
 <p align="left">
-  <img width="800" height="350" src="https://github.com/kurtasli/Buck_Converter/blob/main/Buck_Converter/Images/buckblock.png?raw=true">
+  <img width="800" height="350" src="https://raw.githubusercontent.com/kurtasli/Buck_Converter/refs/heads/main/Buck_Converter/ProjectVersions/Revision_1_2/buck_blockdiagram.png">
 </p>
 
 Red lines refer to POWER LINE.
