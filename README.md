@@ -6,8 +6,8 @@
 ## Board View
 
 <div style="display: flex; align-items: center;">
-  <img style="margin-right: 10px;" width="400" height="350" src="https://github.com/kurtasli/Buck_Converter/blob/main/Buck_Converter/Images/buck1.png?raw=true">
-  <img width="330" height="350" src="https://github.com/kurtasli/Buck_Converter/blob/main/Buck_Converter/Images/buck2.png?raw=true">
+  <img style="margin-right: 10px;" width="300" height="400" src="https://raw.githubusercontent.com/kurtasli/Buck_Converter/refs/heads/main/Buck_Converter/ProjectVersions/Revision_1_2/buck_top.png">
+  <img width="300" height="400" src="https://raw.githubusercontent.com/kurtasli/Buck_Converter/refs/heads/main/Buck_Converter/ProjectVersions/Revision_1_2/buck_bottom.png">
 </div>
 
 
